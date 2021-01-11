@@ -1,4 +1,4 @@
-.badge{
+.badge {
   background-color: tomato;
   width: 16px;
   height: 16px;
@@ -12,4 +12,20 @@
   left: 15px;
   bottom: 10px;
 }
+
+.new__holder {
+  position: relative;
+}
+
+.nav__new {
+  background-color: tomato;
+  width: 4px;
+  height: 4px;
+  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  right: -5px;
+  top: 0px;
 }
