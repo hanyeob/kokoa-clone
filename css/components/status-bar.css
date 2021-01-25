@@ -8,6 +8,7 @@
   z-index: 99;
   padding: 5px 10px;
   box-sizing: border-box;
+  background-color: inherit;
 }
 
 .status-bar__column {
