@@ -1,5 +1,6 @@
-#no-mobile__big,
-#no-mobile__small {
+#no-mobile__big
+/* #no-mobile__small  */
+{
     position: absolute;
     z-index: 99;
     height: 100vh;
